@@ -1,3 +1,10 @@
+THIS IS A FORK FROM https://github.com/caolan/forms
+
+# Modifications from original source code
+
+- Added a way to force the validation of empty fields when fields have an array of validators yet the required option is not set
+
+
 # Forms
 
 Constructing a good form by hand is a lot of work. Popular frameworks like
